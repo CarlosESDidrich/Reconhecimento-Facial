@@ -1,5 +1,5 @@
 # Reconhecimento-Facial
-Afim de aprender mais sobre python e suas bibliotecas, usei de apoio video aulas e foruns. 
+Afim de aprender mais sobre python e visão computacional e outras bibliotecas, usei de apoio video aulas e foruns. 
 
 ## Bibliotecas usadas
 - OpenCV - Uilizada para controlar e ativar a camera/webcam
