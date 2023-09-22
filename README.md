@@ -3,4 +3,4 @@ Afim de aprender mais sobre e visão computacional com python e suas bibliotecas
 
 ## Bibliotecas usadas
 - OpenCV - Uilizada para controlar e ativar a camera/webcam
-- Mediapip - Com um pacote de reconhecimentos tanto do rosto quanto corpo e aifins,simples e eficiente.
+- Mediapipe - Com um pacote de reconhecimentos tanto do rosto quanto corpo e aifins,simples e eficiente.
